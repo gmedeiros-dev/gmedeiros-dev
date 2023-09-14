@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Guilherme</h1>
 <h3>🕵️‍♂️ About me:</h3>
-<br>
 
 - 👨‍🎨 Front-end Developer in training.
 
