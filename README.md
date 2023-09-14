@@ -3,17 +3,17 @@
 
 - 👨‍🎨 Front-end Developer in training.
 
-- 👨‍💼 I'm 19 years old and I live in Brazil
+- 👨‍💼 I'm 19 years old and I live in Brazil.
 
 - 👨‍💻 I currently working in the information technology department in the Brazilian Army.
 
-- 👨‍🎓 Graduating in Analysis and Systems Development
+- 👨‍🎓 Graduating in Analysis and Systems Development.
 
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 
-- 🔭 I’m currently working on <a href="https://github.com/gmedeiros-dev/projeto-orlando-city-site/tree/main">this website project
+- 🔭 I’m currently working on <a href="https://github.com/gmedeiros-dev/projeto-orlando-city-site/tree/main">this website project.
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/gmedeiros-dev?tab=repositories">my repository
+- 👨‍💻 All of my projects are available at <a href="https://github.com/gmedeiros-dev?tab=repositories">my repository.
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
