@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 
-- 🔭 I’m currently working on <a href="https://github.com/gmedeiros-dev/projeto-orlando-city-site/tree/main">this website project<a\>
+- 🔭 I’m currently working on <a href="https://github.com/gmedeiros-dev/projeto-orlando-city-site/tree/main">this website project
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/gmedeiros-dev?tab=repositories">my repository
 
