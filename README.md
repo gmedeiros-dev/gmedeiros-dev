@@ -3,6 +3,8 @@
 
 - 👨‍🎨 Front-end Developer in training.
 
+- 👨‍💼 I'm 19 years old and I live in Brazil
+
 - 👨‍💻 I currently working in the information technology department in the Brazilian Army.
 
 - 👨‍🎓 Graduating in Analysis and Systems Development
