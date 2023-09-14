@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/gmedeiros-dev/projeto-orlando-city-site/tree/main">this website project<a\>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/gmedeiros-dev?tab=repositories">my repository<\a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/gmedeiros-dev?tab=repositories">my repository
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
