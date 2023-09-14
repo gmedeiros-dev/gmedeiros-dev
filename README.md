@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/gmedeiros-dev?tab=repositories">my repository.
 
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gmedeiros-dev&show_icons=true&locale=en&layout=compact" alt="gmedeiros-dev" /></p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
