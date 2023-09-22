@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Guilherme</h1>
 <h3>🕵️‍♂️ About me:</h3>
 
-- 👨‍🎨 Front-end Developer in training.
+- 👨‍🎨 Front-end Developer.
 
 - 👨‍💼 I'm 19 years old and I live in Brazil.
 
